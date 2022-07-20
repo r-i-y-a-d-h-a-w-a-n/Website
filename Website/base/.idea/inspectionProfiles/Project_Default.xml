@@ -1,0 +1,48 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="history.jpg" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="W391" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Contactform.forms" />
+          <option value="flask" />
+          <option value="Todo.Todo.urls.Manager" />
+          <option value="Todo.Todo.urls.main" />
+          <option value="Todo.Todo.urls.add_task" />
+          <option value="Todo.Manager.views.Tasks" />
+          <option value="Todo.Todo.urls.delete_obj" />
+          <option value="todo_list.todo_list.urls.TaskDetail" />
+          <option value="todo.views" />
+          <option value="myproject.myproject.urls.index" />
+          <option value="myproject.todo.forms.placeholder" />
+          <option value="myproject.todo.forms.Enter" />
+          <option value="myproject.todo.forms.todo" />
+          <option value="myproject.todo.forms.aria" />
+          <option value="django.views.decorators.http.request_POST" />
+          <option value="myproject.todo.views.request_POST" />
+          <option value="myproject.myproject.urls.add" />
+          <option value="myproject.myproject.urls.addTodo" />
+          <option value="myproject.myproject.urls.completeTodo" />
+          <option value="myproject.myproject.urls.deleteTodo" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
